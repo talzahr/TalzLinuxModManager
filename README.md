@@ -9,7 +9,9 @@ TO DO list
    directories into [WOWDIR]/Interface/AddOns. Some mods have several "sub mods" within a larger repository but WoW
    needs them as seperate directories within Interface/AddOns.
    
+  - Backup feature to backup current addons before installing a new one.
+   
   - Possibly seperate databases for retail, classic, and PTR. Right now seperate TLMMs would be deployed for the 
-    _retail_ and _classic_ WoW root Interface/AddOns directories. 
+    _retail_ and _classic_ WoW root Interface/AddOns directories.
     
        -Talzahr, Kel'Thuzad
