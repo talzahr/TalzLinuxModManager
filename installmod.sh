@@ -2,6 +2,8 @@
 TLMMver=v0.1
 curlofile=/tmp/curloutput-installmod-$USER.tmp
 resultsfile=/tmp/resultsoutput-installmod-$USER.tmp
+mkdir -p ./repos
+mkdir -p ./backups
 
 searchgithub () {
 	# using a dump file due to the sheer size of the output.
